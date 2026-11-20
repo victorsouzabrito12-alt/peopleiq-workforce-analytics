@@ -294,7 +294,7 @@ O projeto demonstra como diferentes ferramentas analíticas podem ser combinadas
 
 ## Idioma
 
-- [English](README.md)
+- [English](EnglishREADME.md)
 
 ---
 
