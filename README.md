@@ -153,6 +153,20 @@ An analysis of compensation ranges, job levels, average monthly income, promotio
 An exploration of job satisfaction, environment satisfaction, work-life balance, relationship satisfaction, and job involvement.
 
 The report includes interactive filtering and contextual KPI indicators to help users explore different workforce segments.
+## Dashboard Preview
+
+### 1. Workforce Overview
+![Workforce Overview](./01-workforce-overview.png)
+
+### 2. Attrition Analysis
+![Attrition Analysis](./02-attrition-analysis.png)
+
+### 3. Compensation & Career
+![Compensation & Career](./03-compensation-career.png)
+
+### 4. Employee Experience
+![Employee Experience](./04-employee-experience.png)
+
 
 ## 7. Data Architecture & Technical Workflow
 
@@ -215,21 +229,7 @@ Selected findings included:
 - Frequent business travel: adjusted odds ratio of approximately 7.81.
 - Laboratory Technician role: adjusted odds ratio of approximately 7.93.
 - Sales Representative role: adjusted odds ratio of approximately 13.28.
-- 
-## Dashboard Preview
-
-### 1. Workforce Overview
-![Workforce Overview](./01-workforce-overview.png)
-
-### 2. Attrition Analysis
-![Attrition Analysis](./02-attrition-analysis.png)
-
-### 3. Compensation & Career
-![Compensation & Career](./03-compensation-career.png)
-
-### 4. Employee Experience
-![Employee Experience](./04-employee-experience.png)
-
+  
 
 For continuous predictors, the model used standardized variables. Categorical odds ratios are interpreted relative to their respective reference categories.
 
