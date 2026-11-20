@@ -306,3 +306,10 @@ The project demonstrates how multiple analytical tools can be combined to invest
 
 **PeopleIQ | Strategic Workforce Analysis**  
 *End-to-End People Analytics & Business Intelligence Portfolio Project*
+
+## Project Files & Resources
+
+- [SQL Scripts](./sql/)
+- [Python Notebook](./PeopleIQ_Strategic_Workforce_Analysis.ipynb)
+- [Power BI Dashboard](./PowerBI/Strategic_Workforce_Analysis.pbix)
+- [Dashboard Screenshots](./Screenshorts/)
