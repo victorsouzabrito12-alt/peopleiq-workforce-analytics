@@ -147,6 +147,21 @@ Análise das faixas de remuneração, níveis hierárquicos, remuneração mensa
 ### 04. Employee Experience | Experiência do Funcionário
 Exploração de satisfação profissional, satisfação com o ambiente, equilíbrio entre vida pessoal e profissional, satisfação com relacionamentos e envolvimento no trabalho.
 
+## Prévia dos Dashboards
+
+### 1. Visão Geral da Força de Trabalho
+![Visão Geral](./Screenshorts/Workforce%20Overview.png)
+
+### 2. Análise de Desligamentos
+![Análise de Desligamentos](./Screenshorts/Attrition.png)
+
+### 3. Remuneração e Carreira
+![Remuneração e Carreira](./Screenshorts/Remunera%C3%A7%C3%A3o.png)
+
+### 4. Experiência do Funcionário
+![Experiência do Funcionário](./Screenshorts/Avaliation.png)
+
+
 O relatório conta com filtros interativos e indicadores contextuais para permitir a exploração de diferentes segmentos da força de trabalho.
 
 ## 7. Arquitetura de Dados e Fluxo Técnico
