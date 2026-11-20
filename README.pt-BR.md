@@ -300,3 +300,10 @@ O projeto demonstra como diferentes ferramentas analíticas podem ser combinadas
 
 **PeopleIQ | Análise Estratégica da Força de Trabalho**  
 *Projeto de Portfólio em People Analytics e Business Intelligence — Ponta a Ponta*
+
+## Arquivos e Recursos do Projeto
+
+- [Scripts SQL](./sql/)
+- [Notebook Python](./PeopleIQ_Strategic_Workforce_Analysis.ipynb)
+- [Dashboard Power BI](./PowerBI/Strategic_Workforce_Analysis.pbix)
+- [Capturas dos Dashboards](./Screenshorts/)
