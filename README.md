@@ -152,6 +152,21 @@ An analysis of compensation ranges, job levels, average monthly income, promotio
 ### 04. Employee Experience
 An exploration of job satisfaction, environment satisfaction, work-life balance, relationship satisfaction, and job involvement.
 
+## Dashboard Preview
+
+### 1. Workforce Overview
+![Workforce Overview](./Screenshorts/Workforce%20Overview.png)
+
+### 2. Attrition Analysis
+![Attrition Analysis](./Screenshorts/Attrition.png)
+
+### 3. Compensation & Career
+![Compensation & Career](./Screenshorts/Remunera%C3%A7%C3%A3o.png)
+
+### 4. Employee Experience
+![Employee Experience](./Screenshorts/Avaliation.png)
+
+
 The report includes interactive filtering and contextual KPI indicators to help users explore different workforce segments.
 
 ## 7. Data Architecture & Technical Workflow
