@@ -149,21 +149,6 @@ Exploração de satisfação profissional, satisfação com o ambiente, equilíb
 
 O relatório conta com filtros interativos e indicadores contextuais para permitir a exploração de diferentes segmentos da força de trabalho.
 
-## Dashboard Preview
-
-### 1. Workforce Overview
-![Workforce Overview](./01-workforce-overview.png)
-
-### 2. Attrition Analysis
-![Attrition Analysis](./02-attrition-analysis.png)
-
-### 3. Compensation & Career
-![Compensation & Career](./03-compensation-career.png)
-
-### 4. Employee Experience
-![Employee Experience](./04-employee-experience.png)
-
-
 ## 7. Arquitetura de Dados e Fluxo Técnico
 
 O projeto integra desenvolvimento de banco de dados, processamento analítico e construção de relatórios de Business Intelligence.
