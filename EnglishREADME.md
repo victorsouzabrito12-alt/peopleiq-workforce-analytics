@@ -300,7 +300,7 @@ The project demonstrates how multiple analytical tools can be combined to invest
 
 ## Language
 
-- [Português (Brasil)](README.pt-BR.md)
+- [Português (Brasil)](README.md)
 
 ---
 
